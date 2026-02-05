@@ -43,14 +43,14 @@ namespace ClipLog
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(299, 70);
+			this.ClientSize = new System.Drawing.Size(354, 65);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.MaximizeBox = false;
 			this.Name = "MainForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-			this.Text = "ClipLog";
+			this.Text = "Clipboard Logger";
 			this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
 			this.ResumeLayout(false);
 		}
